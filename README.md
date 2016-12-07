@@ -97,6 +97,10 @@ my-app/
     App.css
     App.js
     App.test.js
+    components/
+      Footer.js
+      Header.js
+      PageBody.js
     index.css
     index.js
     logo.svg
